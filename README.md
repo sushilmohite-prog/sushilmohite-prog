@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sushilmohite-prog
 - 👀 I’m interested in ... Ethical hacking and python
-- 🌱 I’m currently learning ... BCS
+- 🌱 I’m currently learning ... MCA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...email- sbmohite2070@gmail.com
 
